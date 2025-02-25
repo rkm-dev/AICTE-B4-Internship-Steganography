@@ -49,4 +49,4 @@ pip install pillow
 
 ![Application Screenshots!](/assets/Picture1.png "App Code Preview")
 
-![Application Screenshots!](/assets/Picture1.png "App Code Preview")
+![Application Screenshots!](/assets/Picture2.png "App Code Preview")
